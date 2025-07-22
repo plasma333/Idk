@@ -1,1 +1,1 @@
-# Idk
+# Idk loadstring(game:HttpGet("https://raw.githubusercontent.com/NysaDanielle/games/refs/heads/main/inkgame.lua"))()
